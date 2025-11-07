@@ -1,3 +1,6 @@
 [submodule "enlace-utc-front"]
 	path = enlace-utc-front
 	url = https://github.com/angelvelazquez999/enlace-utc-front
+[submodule "api_mas_enlace"]
+	path = api_mas_enlace
+	url = https://github.com/D4RKL10N3823/api_mas_enlace
